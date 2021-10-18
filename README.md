@@ -5,9 +5,6 @@
 Welcome! It's my thesis project (backend) which I'm creating. The name of the portal is Adveve. I'm creating a website where you can easily find culture events and users advertisements form Silesia province.
 It's a type of website where you can easily register your account and add your own event or advertisement. The website also has blog where you can find some information about culture events and news in Silesia province.
 
-!!! The frontend part will be upload in this week.
-
-
 ##Technologies
 
 - Java 11
